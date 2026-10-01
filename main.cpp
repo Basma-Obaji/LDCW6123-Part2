@@ -3,6 +3,16 @@
 #include <vector>
 #include <iomanip>
 
+// ========================================================
+// PROJECT: Nucor Steel Mini-Mill Calculator (Part 2)
+// INPUTS: User Name, Professional Role Choice (1-3), 
+//         Market Tier Choice (1-3), Production Tonnage
+// LOGIC: Struct-based data mapping, switch statements, 
+//        robust input validation loops.
+// OUTPUTS: Cost comparison, EAF percentage savings, 
+//          Christensen Disruptive Innovation phase insight.
+// ========================================================
+
 using namespace std;
 
 // Struct to hold market tier data mapped to Christensen's model
